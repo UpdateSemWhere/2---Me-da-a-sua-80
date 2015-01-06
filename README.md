@@ -4,7 +4,7 @@ O formato "Me dá a sua 80" vai ser constituído de entrevistas com pessoas do m
 
 ===================
 
-Entrevistado: Daniel Filho ou Jean Carlo Nascimento (Suissa)
+Entrevistado: Daniel Filho 
 
 Local:
 
