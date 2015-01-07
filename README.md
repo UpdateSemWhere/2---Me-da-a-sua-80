@@ -19,3 +19,4 @@ Perguntas:
 - Como vai indo o ZOFE 2.0?
 - Quais as tendências para o mundo front end neste ano?
 - Existe algum outro vídeo teu com aquele drone (achei demais aquela tua apresentação no imasters "javascript que voa")? será que rolava um "Unboxing" do Update sem Where com ele?
+- Utiliza sistema de grids(neat, susy) ou algum framework(bootstrap, foundation) em seus projetos?
