@@ -11,7 +11,11 @@ Local:
 Perguntas:
 
 - Fala ai sobre as novidades do ecmascript 6
-- Sou um desenvolvedor calouro ainda, e tenho muita vontade de participar de projetos open source, mas não sei por onde começar, e não sei onde encontrar repositorios que não precisem de um conhecimento muito avançado, pois estou querendo aprender e ao mesmo tempo ajduar a comunidade.
-- Jquery ou javascript puro? vale apena reiventar a roda? o tamnho faz diferença na hora H?
-- Pegando o mesmo trem sobre trabalho no exterior, qual a dificuldade de se contrar um desenvolvedor brasileiro para trabalhar na gringa?
+- Sou um desenvolvedor calouro ainda, e tenho muita vontade de participar de projetos open source, mas não sei por onde começar, e não sei onde encontrar repositorios que não precisem de um conhecimento muito avançado, pois estou querendo aprender e ao mesmo tempo ajudar a comunidade.
+- Jquery ou javascript puro? vale apena reinventar a roda? o tamanho faz diferença na hora H?
+- Pegando o mesmo trem sobre trabalho no exterior, qual a dificuldade de se contratrar um desenvolvedor brasileiro para trabalhar na gringa?
 - Trabalhar em casa de cueca é melhor que trabalhar de terno e sapato?
+- O que você tem estudado ultimamente?
+- Como vai indo o ZOFE 2.0?
+- Quais as tendências para o mundo front end neste ano?
+- Existe algum outro vídeo teu com aquele drone (achei demais aquela tua apresentação no imasters "javascript que voa")? será que rolava um "Unboxing" do Update sem Where com ele?
