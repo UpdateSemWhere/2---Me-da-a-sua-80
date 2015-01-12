@@ -21,3 +21,4 @@ Perguntas:
 - Existe algum outro vídeo teu com aquele drone (achei demais aquela tua apresentação no imasters "javascript que voa")? será que rolava um "Unboxing" do Update sem Where com ele?
 - Utiliza sistema de grids(neat, susy) ou algum framework(bootstrap, foundation) em seus projetos? E o que acha da utilização dos mesmos?
 - Trabalho em uma empresa pequena e na equipe de frond-end só existe eu e um outro colega. O que fazer quando esse fdp tem medo do terminal e fica empacando meu trabalho quando tento utilizar Yeoman, libsass, etc? Hehehe
+- Por que você não vê sentido em Web Components? Ouvi você dizendo isso em um episódio do podcast ZOFE.
